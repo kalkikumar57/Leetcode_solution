@@ -1,15 +1,20 @@
+import java.util.Arrays;
+
 class Solution {
-  public int numRescueBoats(int[] people, int limit) {
-    int ans = 0;
+    public int numRescueBoats(int[] people, int limit) {
+        int ans = 0;
+        int left = 0;
+        int right = people.length - 1;
+        Arrays.sort(people);
 
-    Arrays.sort(people);
+        while (left <= right) {
+            if (people[left] + people[right] <= limit) {
+                left++;
+            }
+            right--;
+            ans++;
+        }
 
-    for (int i = 0, j = people.length - 1; i <= j; ++ans) {
-      int remain = limit - people[j--];
-      if (people[i] <= remain)
-        ++i;
+        return ans;
     }
-
-    return ans;
-  }
 }
