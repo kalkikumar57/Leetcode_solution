@@ -1,11 +1,68 @@
+// class Solution {
+//     public String reverseWords(String s) {
+//         int left=0;
+//         int right=s.length()-1;
+//         String temp="";
+//         String ans="";
+//         while(left<=right){
+//             char ch=s.charAt(left);
+//             if(ch !=' '){
+//                 temp += ch;
+//             }else if(ch == ' '){
+//                 if(!ans.equals("")){
+//                     ans=temp+" "+ans;
+//                 }
+//             }else{
+//                 ans=temp;
+//             }
+//             temp="";
+//         }
+//         left++;
+//     }
+//     if(!temp.equals("")){
+//         if(!ans.equals("")){
+//             ans=temp+" "+ans;
+//         }else{
+//             ans=temp;
+//         }
+//     }
+//            return ans;
+// }
+
 class Solution {
     public String reverseWords(String s) {
-        String[] words = s.split(" +");
-        StringBuilder sb = new StringBuilder();
-        for(int i=words.length-1;i>=0;i--){
-            sb.append(words[i]);
-            sb.append(" ");
+        int left = 0;
+        int right = s.length() - 1;
+        String temp = "";
+        String ans = "";
+
+        while (left <= right) {
+            char ch = s.charAt(left);
+
+            if (ch != ' ') {
+                temp += ch;
+            } else {
+                if (!temp.equals("")) {
+                    if (!ans.equals("")) {
+                        ans = temp + " " + ans;
+                    } else {
+                        ans = temp;
+                    }
+                    temp = ""; // Reset temp after adding the word
+                }
+            }
+            left++;
         }
-        return sb.toString().trim();
+
+        // Add the last word to ans if any remains in temp
+        if (!temp.equals("")) {
+            if (!ans.equals("")) {
+                ans = temp + " " + ans;
+            } else {
+                ans = temp;
+            }
+        }
+
+        return ans;
     }
 }
