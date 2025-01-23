@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0407-trapping-rain-water-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
 ## Graph
@@ -93,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2145-grid-game) |
@@ -113,4 +117,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
