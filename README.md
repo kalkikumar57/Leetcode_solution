@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
