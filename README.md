@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2145-grid-game) |
 ## String Matching
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
