@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0061-rotate-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
