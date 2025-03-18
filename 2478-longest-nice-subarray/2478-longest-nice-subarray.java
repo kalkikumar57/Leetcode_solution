@@ -7,7 +7,7 @@ class Solution {
         int mask = 0;
 
         while(j < n) {
-            while((mask & nums[j]) != 0) { //keep shrinking
+            while((mask & nums[j]) != 0) { 
                 mask = (mask ^ nums[i]);
                 i++;
             }
