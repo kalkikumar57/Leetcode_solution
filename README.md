@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2509-minimize-xor) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
 | ------- |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Monotonic Stack
 |  |
