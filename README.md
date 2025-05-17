@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
