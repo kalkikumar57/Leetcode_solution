@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0407-trapping-rain-water-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0854-making-a-large-island](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1396-count-servers-that-communicate) |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -349,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
