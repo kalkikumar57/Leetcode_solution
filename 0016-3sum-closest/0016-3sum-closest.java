@@ -1,34 +1,40 @@
-import java.util.Arrays;
-
 class Solution {
-    public int threeSumClosest(int[] nums, int target) {
-        // Sorting given list
-        Arrays.sort(nums);
+    public int threeSumClosest(int[] arr, int target) {
+        Arrays.sort(arr); 
 
-        // Initializing closestsum variable to a large integer
-        int closestsum = Integer.MAX_VALUE;
+        int n = arr.length;
 
-        // Traversing through the whole list
-        for (int i = 0; i < nums.length - 2; i++) {
-            // Defining Pointers left and right to get closestsum
-            int left = i + 1, right = nums.length - 1;
+        int closestSum = 0;
+        int minDiff = Integer.MAX_VALUE; 
 
-            // Traversing through remaining elements of list for each i value
+
+        for (int i = 0; i < n - 2; i++) {
+
+            int left = i + 1;
+            int right = n - 1;
+
+   
             while (left < right) {
-                // Defining currentsum which will be used to compare with closestsum
-                int currentsum = nums[i] + nums[left] + nums[right];
+                int sum = arr[i] + arr[left] + arr[right];
+                int diff = Math.abs(sum - target);
 
-                if (Math.abs(currentsum - target) < Math.abs(closestsum - target)) {
-                    closestsum = currentsum; // Assigning closest value to closestsum each time
+                if (diff < minDiff) {
+                    minDiff = diff;
+                    closestSum = sum;
                 }
 
-                if (currentsum < target) {
-                    left++; // If closest sum is less than we need to add a higher element so move left pointer
+                if (sum == target) {
+                    return sum;
+                }
+                else if (sum < target) {
+                    left++;
                 } else {
-                    right--; // If closest sum is higher than we need to remove a higher element so move right pointer
+                    right--;
                 }
             }
         }
-        return closestsum;
+
+        return closestSum;
     }
 }
+
