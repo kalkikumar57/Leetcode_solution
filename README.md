@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0796-rotate-string) |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
