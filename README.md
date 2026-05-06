@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0854-making-a-large-island](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0854-making-a-large-island) |
+| [0904-fruit-into-baskets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
+| [0904-fruit-into-baskets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
