@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0415-add-strings) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0796-rotate-string) |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
@@ -324,11 +325,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0415-add-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0415-add-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
