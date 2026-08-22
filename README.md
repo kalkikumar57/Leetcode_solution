@@ -408,4 +408,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
