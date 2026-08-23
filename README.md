@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
