@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0854-making-a-large-island](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0854-making-a-large-island) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0904-fruit-into-baskets) |
