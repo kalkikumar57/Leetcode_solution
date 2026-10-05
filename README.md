@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0856-score-of-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Bit Manipulation
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Queue
 |  |
