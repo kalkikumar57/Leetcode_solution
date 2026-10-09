@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0682-baseball-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0854-making-a-large-island](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0854-making-a-large-island) |
 | [0904-fruit-into-baskets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0904-fruit-into-baskets) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0682-baseball-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
