@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1524-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1502-construct-k-palindrome-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2509-minimize-xor) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Bit Manipulation
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Queue
 |  |
