@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -472,4 +473,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
