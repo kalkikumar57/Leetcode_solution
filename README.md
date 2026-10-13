@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3483-alternating-groups-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2509-minimize-xor) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3321-type-of-triangle) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
