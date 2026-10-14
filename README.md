@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2509-minimize-xor) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3321-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Design
 |  |
 | ------- |
