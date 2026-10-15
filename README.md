@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -485,4 +487,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
