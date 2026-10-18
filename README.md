@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0415-add-strings) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0016-3sum-closest) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1170-shortest-common-supersequence) |
@@ -499,4 +502,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
