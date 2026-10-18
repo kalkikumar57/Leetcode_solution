@@ -1,52 +1,42 @@
+
 class Solution {
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
-
-        // Transform the input string to include special characters
-        StringBuilder modifiedS = new StringBuilder("#");
-        for (char c : s.toCharArray()) {
-            modifiedS.append(c).append("#");
-        }
-
-        int n = modifiedS.length();
-        int[] P = new int[n]; // Array to store the length of palindromes at each position
-        int C = 0; // Center of the current palindrome
-        int R = 0; // Right boundary of the current palindrome
-
-        int maxLen = 0; // Maximum length of a palindrome found
-        int maxCenter = 0; // Center of the palindrome with maximum length
+        int n = s.length();
+        int start = 0;
+        int maxLength = 1;
 
         for (int i = 0; i < n; i++) {
-            if (i < R) {
-                int mirror = 2 * C - i; // Mirror position of i
-                P[i] = Math.min(R - i, P[mirror]);
+            // Odd length palindrome
+            int left = i;
+            int right = i;
+
+            while (left >= 0 && right < n &&
+                   s.charAt(left) == s.charAt(right)) {
+                if (right - left + 1 > maxLength) {
+                    start = left;
+                    maxLength = right - left + 1;
+                }
+
+                left--;
+                right++;
             }
 
-            // Expand around the current character
-            int a = i + (1 + P[i]);
-            int b = i - (1 + P[i]);
-            while (a < n && b >= 0 && modifiedS.charAt(a) == modifiedS.charAt(b)) {
-                P[i]++;
-                a++;
-                b--;
-            }
+            // Even length palindrome
+            left = i;
+            right = i + 1;
 
-            // Update the center and right boundary if needed
-            if (i + P[i] > R) {
-                C = i;
-                R = i + P[i];
-            }
+            while (left >= 0 && right < n &&
+                   s.charAt(left) == s.charAt(right)) {
+                if (right - left + 1 > maxLength) {
+                    start = left;
+                    maxLength = right - left + 1;
+                }
 
-            // Update the maximum length and its center
-            if (P[i] > maxLen) {
-                maxLen = P[i];
-                maxCenter = i;
+                left--;
+                right++;
             }
         }
 
-        int start = (maxCenter - maxLen) / 2; // Start index of the longest palindrome
-        int end = start + maxLen; // End index of the longest palindrome
-
-        return s.substring(start, end);
+        return s.substring(start, start + maxLength);
     }
 }
