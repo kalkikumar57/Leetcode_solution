@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2107-find-unique-binary-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2145-grid-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2690-house-robber-iv) |
