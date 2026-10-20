@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0415-add-strings) |
+| [0567-permutation-in-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0796-rotate-string) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0904-fruit-into-baskets) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -441,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
