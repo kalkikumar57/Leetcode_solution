@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2107-find-unique-binary-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2145-grid-game) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0415-add-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
