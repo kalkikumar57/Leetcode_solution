@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0952-word-subsets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
