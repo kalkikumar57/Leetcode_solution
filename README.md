@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Design
 |  |
 | ------- |
