@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1364-tuple-with-same-product) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0768-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2665-minimum-time-to-repair-cars) |
