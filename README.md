@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
@@ -535,4 +536,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
