@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0415-add-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
@@ -540,4 +542,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
