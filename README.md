@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3194-find-words-containing-character) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/kalkikumar57/Leetcode_solution/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/kalkikumar57/Leetcode_solution/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kalkikumar57/Leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kalkikumar57/Leetcode_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
